@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **House payment app**
 
-- 👨‍💻 All of my projects are available at [https://peterkimanzi.netlify.app/](peterkimanzi.netlify.app)
+- 👨‍💻 All of my projects are available at [peterkimanzi.netlify.app/](peterkimanzi.netlify.app)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/peter-kimanzi-002299206/](https://www.linkedin.com/in/peter-kimanzi-002299206/)
 
