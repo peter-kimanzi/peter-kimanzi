@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [peterkimanzi](https://peterkimanzi.netlify.app/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/peter-kimanzi-002299206/](https://www.linkedin.com/in/peter-kimanzi-002299206/)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/peter-kimanzi-002299206/)
 
 - 💬 Ask me about **React, Three js, Gsap**
 
