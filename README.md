@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/peter-kimanzi-002299206/)
 
-- 💬 Ask me about **React, Three js, Gsap**
+- 💬 Ask me about **React, Three js, Gsap, Laravel, Vue, Angular, APIs, PHP**
 
 - 📫 How to reach me **peterkimanzikithumba@gmail.com**
 
