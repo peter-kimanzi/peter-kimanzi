@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Qazini website](sokowatch.netlify.app)
 
-- 🌱 I’m currently learning **laravel,Vue**
+- 🌱 I’m currently learning **laravel,Vue,Angular**
 
 - 👯 I’m looking to collaborate on **House payment app**
 
