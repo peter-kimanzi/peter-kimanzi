@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/peter-kimanzi-002299206/)
 
-- 💬 Ask me about ** Laravel, Vue, APIs, PHP, SEO**
+- 💬 Ask me about ** Laravel, Vue, APIs, PHP, SEO **
 
 - 📫 How to reach me **peterkimanzikithumba@gmail.com**
 
