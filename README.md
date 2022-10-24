@@ -20,7 +20,6 @@
 
 - 📫 How to reach me **peterkimanzikithumba@gmail.com**
 
-- ⚡ Fun fact **I'm good with people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
