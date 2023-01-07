@@ -32,16 +32,16 @@
 
 
 
-<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter-kimanzi&show_icons=true&theme=default" />
+<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=peter-kimanzi&show_icons=true&theme=default" />
  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter-kimanzi&show_icons=true&locale=en&layout=compact" />
 </div>
 
 
-<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=peter-kimanzi&show_icons=true&theme=default" />
+<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=peter-kimanzi&show_icons=true&theme=default" />
  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=peter-kimanzi&show_icons=true&locale=en&layout=compact" />
 </div>
 
 
-<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=peter-kimanzi&show_icons=true&theme=default" />
+<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=peter-kimanzi&show_icons=true&theme=default" />
  <img style="max-width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=peter-kimanzi&show_icons=true&locale=en&layout=compact" />
 </div>
