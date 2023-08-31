@@ -8,8 +8,7 @@
 
 - 🔭 I’m currently working on [Chatroom Website](https://chatroomdamaris.netlify.app/)
 
-- 🌱 I’m currently learning 
-
+- 🌱 I’m 
 - 👯 I’m looking to collaborate on **House payment app**
 
 - 👨‍💻 All of my projects are available at [peterkimanzi](https://peterkimanzi.netlify.app/)
