@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Chatroom Website](https://chatroomdamaris.netlify.app/)
 
-- 👯 I’m 
+
 
 - 👨‍💻 All of my projects are available at [peterkimanzi](https://peterkimanzi.netlify.app/)
 
