@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on [Chatroom Website](https://chatroomdamaris.netlify.app/)
 
-
-
 - 👨‍💻 All of my projects are available at [peterkimanzi](https://peterkimanzi.netlify.app/)
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/peter-kimanzi-002299206/)
